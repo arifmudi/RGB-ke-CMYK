@@ -23,7 +23,11 @@ Selain itu, pendekatan yang lain terdapat pada Pratt (2001). Rumus yang digunaka
 ![rumus 4](https://user-images.githubusercontent.com/16121896/72498485-0fb9b280-3862-11ea-9bde-0cf14bcf4a34.png)
 
 Dalam hal ini,  0 < u < 1 dan 0 < b < 1,0.
+
 Referensi :
+
 Crane, R. 1997. A Simplified Approach to Image Processing Classical and Modern Techniques in C. Upper Saddle River: Prentice Hall PTR.
+
 Dietrich, H. 2003. XCmyk – CMYK to RGB calculator with Source Code. [Online] http://www.codeproject.com/KB/applications/xcmyk.aspx
+
 Pratt, W. K. 2001. Digital Image Processing; New York: John Wiley and Sons.
