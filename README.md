@@ -15,4 +15,10 @@ Perlu diketahui, konversi dari CMY ke CMYK dapat menggunakan berbagai cara perhi
 
 Dengan pendekatan seperti itu, salah satu dari C’, M’, atau Y’ akan bernilai 0. Namun, ada pula yang menggunakan rumus seperti berikut (Dietrich, 2003):
 
+![rumus 3](https://user-images.githubusercontent.com/16121896/72498440-ed279980-3861-11ea-89be-27d8cadb93a6.png)
 
+Dalam hal ini, jika K = 1, C=Y=K=0.
+Selain itu, pendekatan yang lain terdapat pada Pratt (2001). Rumus yang digunakan berupa:
+
+![rumus 4](https://user-images.githubusercontent.com/16121896/72498485-0fb9b280-3862-11ea-9bde-0cf14bcf4a34.png)
+Dalam hal ini,  0 < u < 1 dan 0 < b < 1,0.
