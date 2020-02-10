@@ -1,5 +1,8 @@
 # RGB-ke-CMYK
 
+silahkan disimak video berikut ini, jangan lupa di like, comment dan subscribe:
+[![Konversi RGB ke CMYK dan Konversi CMYK ke RGB](https://img.youtube.com/vi/lFNtMe0CLEY/0.jpg)](https://www.youtube.com/watch?v=lFNtMe0CLEY)
+
 Model warna CMY (cyan, magenta, yellow) mempunyai hubungan dengan RGB sebagai berikut:
 
 ![rumus 1](https://user-images.githubusercontent.com/16121896/72498248-58bd3700-3861-11ea-9d1e-2b89c4e13204.png)
